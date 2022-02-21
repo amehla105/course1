@@ -49,7 +49,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>CourseApp</finalName>
+		<finalName>SpringBootApp</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
